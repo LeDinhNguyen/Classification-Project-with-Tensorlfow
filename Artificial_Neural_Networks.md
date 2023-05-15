@@ -1,4 +1,4 @@
-# ANN
+# Artificial Neural Network (ANNs)
 
 ### Fully-connected Artificial Neural Network
 
